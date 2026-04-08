@@ -28,3 +28,12 @@ https://pixabay.com/sound-effects/film-special-effects-transition-futuristic-tel
 ### Schéma d'Intéractivité
 ![Map](asset/media/schema_interactivite.jpg)
 
+
+
+### Distribution des tâches
+
+Alexandre: Niveau, Cinématique
+Nicolas: Niveau, Intéractivité
+Félix: Niveau, Sons, Designer
+
+
