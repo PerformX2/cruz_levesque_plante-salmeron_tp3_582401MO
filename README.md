@@ -33,7 +33,9 @@ https://pixabay.com/sound-effects/film-special-effects-transition-futuristic-tel
 ### Distribution des tâches
 
 Alexandre: Niveau, Cinématique
+
 Nicolas: Niveau, Intéractivité
+
 Félix: Niveau, Sons, Designer
 
 
