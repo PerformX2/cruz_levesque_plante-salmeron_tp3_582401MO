@@ -6,6 +6,7 @@ Son seul espoir de survie : traverser ce lieu dangereux et rempli de mystères p
 
 Notre jeux est un platformer avec un aspect de teleportation dans le genre des jeux "way up" où il a une chance que le joueur doit recommecencer depuis tout le début.
 
+![Map](asset/media/map.drawio.png)
 
 
 le jeux consiste a se teleporter jusqu'a la sortie de la grotte 
