@@ -2,10 +2,9 @@
 
 
 Un aventurier se promène dans une forêt lorsqu'il fait une chute dans un gouffre proche d'une mine. Il se retrouve piégé au plus profond d'une grotte inexplorée.
-Son seul espoir de survie : traverser ce lieu dangereux et rempli de mystères pour regagner la surface.
+Son seul espoir de survie : traverser ce lieu rempli de mystères pour regagner la surface.
 
-Notre jeux est un platformer avec un aspect de teleportation dans le genre des jeux "way up" où il a une chance que le joueur doit recommecencer depuis tout le début.
-
+Ce jeux est un platformer comme "Only up". Le joueur peut perdre de la progression s'il tombe en bas. Il y a aussi un objet ramassable pour se téléporter contrairement à "Only up".
 
 ### MoodBoard
 ![Map](asset/media/moodboard_visuel.png)
